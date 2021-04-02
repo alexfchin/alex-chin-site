@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import resume from './ALEXANDER_CHIN_RESUME.pdf';
 import './App.css';
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
         </h4>
         <a
           className="App-link"
-          href="https://www.linkedin.com/in/alexanderfchin/"
+          href={resume}
           target="_blank"
           rel="noopener noreferrer"
         >
