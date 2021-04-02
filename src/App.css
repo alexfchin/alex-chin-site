@@ -24,6 +24,10 @@
   color: white;
 }
 
+.App-header h1{
+  margin-bottom: 1px;
+}
+
 .App-link {
   color: #61dafb;
 }
