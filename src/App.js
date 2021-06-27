@@ -11,7 +11,7 @@ function App() {
           Alexander Chin
         </h1>
         <h4>
-          Software Developer
+          Software Developer @ Amazon
         </h4>
         <a
           className="App-link"
